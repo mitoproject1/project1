@@ -501,7 +501,7 @@ the website, in dark theme
 
 .product__container{
   padding: 3rem 0;
-  grid-template-columns: repeat(, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 2.5rem 3rem;
 }
 
